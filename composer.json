@@ -1,0 +1,33 @@
+{
+    "name": "luceos/flarum-ext-dofollow",
+    "description": "A Flarum extension that sets dofollow for same domain or specified domains on links.",
+    "type": "flarum-extension",
+    "require": {
+        "flarum/core": "^1.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Franz Liedke",
+            "email": "franz@develophp.org"
+        },
+        {
+            "name": "Daniël Klabbers",
+            "email": "daniel@klabbers.email",
+            "homepage": "http://luceos.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Luceos\\DoFollow\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Dofollow links",
+            "icon": {
+                "name": "fas fa-link"
+            }
+        }
+    }
+}
