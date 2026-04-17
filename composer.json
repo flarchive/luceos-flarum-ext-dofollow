@@ -1,0 +1,33 @@
+{
+    "name": "luceos/flarum-ext-dofollow",
+    "description": "A Flarum extension that sets target & rel for same domain or specified domains on links.",
+    "type": "flarum-extension",
+    "require": {
+        "flarum/core": "^v2.0.0-beta.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Franz Liedke",
+            "email": "franz@develophp.org"
+        },
+        {
+            "name": "Daniël Klabbers",
+            "email": "daniel@klabbers.email",
+            "homepage": "http://luceos.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Luceos\\DoFollow\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Target/Rel links",
+            "icon": {
+                "name": "fas fa-link"
+            }
+        }
+    }
+}
