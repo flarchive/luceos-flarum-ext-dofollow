@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of luceos/flarum-ext-dofollow.** Not for installation: use [Packagist](https://packagist.org/packages/luceos/flarum-ext-dofollow) or the [upstream repository](https://github.com/luceos/flarum-ext-dofollow).
 
-**0** versions archived · Latest: [`v2.0`](https://github.com/flarchive/luceos-flarum-ext-dofollow/tree/archive/v2.0) · License: `MIT` · Flarum: `^v2.0.0-beta.8`
+**2** versions archived · Latest: [`v2.0`](https://github.com/flarchive/luceos-flarum-ext-dofollow/tree/archive/v2.0) · License: `MIT` · Flarum: `^v2.0.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2022-07-13 | `^1.4.0` | [Browse](https://github.com/flarchive/luceos-flarum-ext-dofollow/tree/archive/v1.0) |
+| `v2.0` | 2026-04-17 | `^v2.0.0-beta.8` | [Browse](https://github.com/flarchive/luceos-flarum-ext-dofollow/tree/archive/v2.0) |
 
 Catalog entry: [packages/luceos-flarum-ext-dofollow.json](https://github.com/flarchive/archive-index/blob/main/packages/luceos-flarum-ext-dofollow.json)
 
